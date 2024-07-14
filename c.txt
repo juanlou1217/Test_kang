@@ -1,7 +1,5 @@
 line1
 line2
 line3
-new line 
-line4
-new branch 2
+new branch 
 line5
