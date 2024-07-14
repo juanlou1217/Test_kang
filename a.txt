@@ -3,6 +3,6 @@ yey
 main分支修改
 xxx
 line1
-new line 1
+new
 line
 line3
