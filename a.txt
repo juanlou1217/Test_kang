@@ -4,6 +4,11 @@ main分支修改
 xx
 x
 line1
+<<<<<<< HEAD
 line3`
 new line 2
+=======
+new
+line
+>>>>>>> new-branch
 line3
